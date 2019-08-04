@@ -3,7 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pkg18424045_btth01;
+ 
+package pkg18424045_ltudjava;
 
 import Entities.Account;
 import Entities.Score;
